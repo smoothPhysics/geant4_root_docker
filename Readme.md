@@ -18,6 +18,6 @@ Der default terminal is auf TMUX gesetzt. Hier ein tutorial: https://www.ocf.ber
 
 # Credits
 
-I would like to thank https://github.com/NovoG93 very much for his help in creating the container! 
+I would like to thank https://github.com/NovoG93 very much for his help creating the container! 
 
 
